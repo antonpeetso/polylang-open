@@ -48,7 +48,7 @@ class polylang_open_WP_REST
 		});
 
 		function polylang_open_get_languages() {
-			return pll_languages_list(array('fields' => 'slug'));
+			return array("languages" => pll_languages_list(array('fields' => 'slug')));
 		}
 	}
 
