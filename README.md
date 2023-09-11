@@ -4,7 +4,7 @@
 - License: GPLv2 or later
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
 - Tags: polylang, single-slug, rest-api
-- Contributors: Anton Peetso(@Stadus), grapplerulrich, Marc-Antoine Ruel
+- Contributors: Anton Peetso(@antonpeetso), grapplerulrich, Marc-Antoine Ruel
 
 ## TLDR
 Was too cheap to get Polyang PRO so put together a plugin instead. Hopefully I will maintain this, hopefully...
